@@ -6,6 +6,6 @@ A bookstore management system built using Go.
 
 Auto-generated Postman Docs: [Here.](https://documenter.getpostman.com/view/17779018/UVyxQDNy)
 
-## Credit
+## References
 
-1. [Build a Book Management System by Akhil Sharma](https://www.youtube.com/watch?v=1E_YycpCsXw)
+1. [Akhil Sharma](https://www.youtube.com/watch?v=1E_YycpCsXw)
